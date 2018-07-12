@@ -1,0 +1,24 @@
+<resources>
+    <!-- Titles -->
+    <string name="app_name">Better Navigation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="json_activity_name">JSON Response</string>
+
+    <!-- MapsActivity -->
+    <string name="get_better_directions_button">Get Better directions</string>
+    <string name="get_google_directions_button">Get Google directions</string>
+    <string name="no_directions_yet">No directions yet</string>
+    <string name="could_not_retrieve_directions">Could not retrieve directions!</string>
+    <string name="continue_button">Continue</string>
+    <string name="direction_instruction">Go %1$d o\'clock for %2$dm.</string>
+    <string name="error_mystery">Something bad happened!</string>
+    <string name="error_connection">Could not connect to Google!</string>
+    <string name="need_location_perms">Location permissions are required for this app to work.</string>
+    <string name="no_gps">GPS not available!</string>
+    <string name="wait_for_steps_title">Please wait</string>
+    <string name="wait_for_steps_message">The app needs 10 seconds for the step counter to catch up</string>
+    <string name="results_title">Test results</string>
+
+    <!-- General -->
+    <string name="ok">OK</string>
+</resources>
